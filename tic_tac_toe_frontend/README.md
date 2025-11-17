@@ -1,16 +1,19 @@
-# tic_tac_toe_frontend
+# Tic Tac Toe - Ocean Professional
 
-A new Flutter project.
+A Flutter Tic Tac Toe app featuring:
+- Modern Ocean Professional theme (Primary: #2563EB, Secondary: #F59E0B)
+- 3x3 grid with smooth animations and subtle shadows
+- Status bar indicating current player or game result
+- Win/draw detection (rows, columns, diagonals)
+- Reset button
 
-## Getting Started
+## Run
 
-This project is a starting point for a Flutter application.
+- flutter pub get
+- flutter run
 
-A few resources to get you started if this is your first Flutter project:
+## Test
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- flutter test
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app requires no external services or environment variables.
